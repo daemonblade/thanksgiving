@@ -2,7 +2,7 @@
 
 A Lilypond transcription of Thanksgiving by
 [George Winston](https://en.wikipedia.org/wiki/George_Winston). The piece
-from from his
+is from his
 [December](https://en.wikipedia.org/wiki/December_(George_Winston_album))
 album.
 
