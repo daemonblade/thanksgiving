@@ -10,7 +10,7 @@
 \header
 {
   title = "Thanksgiving"
-  composer = "George Winston (1949-)"
+  composer = "George Winston (1949)"
   tagline = "https://bitbucket.org/daemonblade/thanksgiving"
   copyright = \markup { \char ##x00A9 "2017 Jonathan Chen" }
 }
@@ -25,13 +25,19 @@ thanksgiving_begin =
 thanksgiving_piano_upper = \relative c''
 {
   \clef treble
-  r2
+  r4 fis,8 <g b> <g b> fis <g b> fis
+  r4 b,8 <c g'> <c g'>2
+  r4 e8 <fis a> <fis a> e <fis c'> fis
+  r4 a, <b fis'>2
 }
 
 thanksgiving_piano_lower = \relative c
 {
   \clef bass
-  r2
+  e8 b' r4 r2
+  a,8 e' r4 r2
+  d8 a' r4 r2
+  g,8 d' r4 r2
 }
 
 
