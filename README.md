@@ -1,6 +1,10 @@
-# Thanksgiving, George Winston
+# Thanksgiving by George Winston
 
-A transcription of George Winston's Thanksgiving using Lilypond.
+A Lilypond transcription of Thanksgiving by
+[George Winston](https://en.wikipedia.org/wiki/George_Winston). The piece
+from from his
+[December](https://en.wikipedia.org/wiki/December_(George_Winston_album))
+album.
 
 ## Compiling from Source
 
