@@ -1,8 +1,7 @@
 # Thanksgiving by George Winston
 
-A Lilypond transcription of Thanksgiving by
-[George Winston](https://en.wikipedia.org/wiki/George_Winston). The piece
-is from his
+Thanksgiving by [George Winston](https://en.wikipedia.org/wiki/George_Winston),
+engraved using [Lilypond](http://lilypond.org). This piece is from his
 [December](https://en.wikipedia.org/wiki/December_(George_Winston_album))
 album.
 

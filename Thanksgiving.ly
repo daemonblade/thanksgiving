@@ -53,6 +53,12 @@ thanksgiving_piano_upper = \relative c''
   b' c8. c4 r8. a16 g8. e16
   e fis8. fis2 d'8 c16 d,
   a' b8. b4 r8. g16 fis8. d16
+  d8. e16 e2 e8 g
+  fis dis16 b b4 r16 b fis' b, g'8 a16 e
+  b' e, c' b b8 fis16 b fis b8 fis16 a4
+  c8 b16 a a g8. fis8 e16 d d d e d
+  fis a fis e fis e d e fis a fis e fis8 e16 d
+  d2 r8 d a' fis16 d
 }
 
 thanksgiving_piano_lower = \relative c
@@ -95,6 +101,15 @@ thanksgiving_piano_lower = \relative c
   a,,8 e' b' c c b g' a
   d,, a' e' fis fis e a fis
   g,, d' \clef treble a' <fis' d'> <fis d'> b, fis' g
+  \clef bass
+  c,, g' \clef treble d' <e b'> <e b'> d16 c' b8 e,
+  \clef bass
+  b, fis' cis' dis dis2
+  e,8 b' fis' g g g fis4
+  a,,8 e' b' c g'4 g
+  d,8 a' \clef treble e' fis c'2
+  \clef bass
+  g,,8 d' a' b fis'2
 }
 
 
