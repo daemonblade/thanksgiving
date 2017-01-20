@@ -68,6 +68,31 @@ thanksgiving_piano_upper = \relative c''
   a'16 b a g g8 b16 a g4 b16 a g b,
   fis'8. dis16 dis4 r16 b fis'8 g a16 e
   b' e, c' b b4 r8 b16 e, c' e, d' e,
+  e' e, d' c c2 b16 a8.
+  \acciaccatura e8 fis e16 d d4 r8 d4.
+  \acciaccatura e8 fis e16 d d2 r8. d'16
+  \acciaccatura d8 e2. r8. g,16
+  fis8 dis16 b b2 r16 fis' fis b,
+  g' b,8. b2.
+  r2 r4 r16 a e' e
+  <a, fis'>1
+  r4 r8 <fis d'>8 <fis d'>2
+  r2 r8 g'4.
+  r4 r8 <b, fis'>8 <b fis'>4 r8. fis'16
+  g8 fis16 e e2 r8. fis16
+  g8 fis16 e e4 r8. fis16 g fis g fis
+  g fis e d d2 r8. d16
+  d e8. e4 r16 c e g b8 g16 a
+  a8 fis fis4 r16 b, fis' b, g'8 fis
+  fis fis16 b, b4 r8 d16 b g' fis g fis
+  g fis g fis fis4 r8 d d16 e a b
+  c b c b b b c b b8 d, d d16 e
+  fis8. fis16 fis4 r8 d d <g b>16 d
+  <g b>16 d8. d2.
+  \acciaccatura cis8 dis cis16 b b2 r8. fis'16
+  \acciaccatura cis8 dis cis16 b b2 r16 g' fis8
+  \acciaccatura cis8 dis cis cis2.
+  \bar "|."
 }
 
 thanksgiving_piano_lower = \relative c
@@ -122,7 +147,7 @@ thanksgiving_piano_lower = \relative c
   c,8 g' d' e e2
   b,8 fis' cis' dis dis2
   \clef treble
-  d,8 b' fis' g g fis g fis
+  e,8 b' fis' g g fis g fis
   \clef bass
   a,, e' b' c c b g' c,16 a'
   d,,8 a' \clef treble e' fis fis e c' fis,16 a
@@ -132,8 +157,40 @@ thanksgiving_piano_lower = \relative c
   b, fis' cis' dis dis2
   \clef treble
   e,8 b' fis' g g fis4.
+  \clef bass
+  a,,8 e' b' c c b g' c,16 a'
+  d,,8 a' e' fis fis2
+  g,,8 d' a' b b4 fis'
+  c,8 g' d' e e2
+  b,8 fis' cis' dis dis2
+  \clef treble
+  e,8 b' fis' b b d4.
+  \clef bass
+  a,,8 e' b' c c g'4.
+  d,8 a' e' fis fis2
+  g,,8 d' a' b b2
+  c,8 g' d' e b'2
+  b,,8 fis' cis' dis dis2
+  \clef treble
+  e,8 b' fis' g g fis b4
+  \clef bass
+  a,,8 e' b' c \clef treble g' d' d4
+  \clef bass
+  g,,,8 d' \clef treble a' fis' fis2
+  \clef bass
+  c,8 g' d' e e2
+  b,8 fis' cis' dis dis2
+  e,8 b' fis' g g2
+  a,,8 e' b' g' g c, g'4
+  d,8 a' e' fis \clef treble c'4 c16 a8.
+  \clef bass
+  g,,8 d' a' b fis'4 b,8 fis'
+  c, g' d' e e2
+  b,8 fis' cis'4 dis2
+  b,8 fis' cis' dis dis dis dis8. fis16
+  b,,8 fis' cis'2.
+  \bar "|."
 }
-
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %
