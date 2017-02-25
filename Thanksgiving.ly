@@ -104,20 +104,17 @@ thanksgiving_piano_lower = \relative c
   g,8\sustainOn d' r4 r2
   c8 g' d' e~ e2
   b,8 fis' cis' dis~ dis2
-  \clef treble
-  fis,8 b fis' <g b>~ <g b> fis <g b> fis
+  e,8 b' \clef treble fis' <g b>~ <g b> fis <g b> fis
   \clef bass
   a,,8 e' b' c~ c4. b8
   d, a' e' fis~ fis a, <e' fis> a,
   g, d' a' b~ b2
   c,8 g' d' e~ e2
   b,8 fis' cis' dis~ dis2
-  \clef treble
-  e,8 b' fis' g~ g d'4.
+  e,8 b' \clef treble fis' g~ g d'4.
   \clef bass
   a,,8 e' b' c~ c2
-  \clef treble
-  d,8 a' e' <fis c'>~ <fis c'> e <fis c'>4
+  d,8 a' \clef treble e' <fis c'>~ <fis c'> e <fis c'>4
   \clef bass
   g,,8 d' a' b~ b2
   c,8 g' d' e~ e2
@@ -146,8 +143,7 @@ thanksgiving_piano_lower = \relative c
   g,,8 d' a' b fis'2
   c,8 g' d' e~ e2
   b,8 fis' cis' dis~ dis2
-  \clef treble
-  e,8 b' fis' g~ g fis g fis
+  e,8 b' \clef treble fis' g~ g fis g fis
   \clef bass
   a,, e' b' c~ c b g' c,16 a'
   d,,8 a' \clef treble e' fis~ fis e c' fis,16 a
@@ -155,16 +151,14 @@ thanksgiving_piano_lower = \relative c
   g,,8 d' a' b~ b a fis' b,
   c, g' d' e~ e d4 e8
   b, fis' cis' dis~ dis2
-  \clef treble
-  e,8 b' fis' g~ g fis4.
+  e,8 b' \clef treble fis' g~ g fis4.
   \clef bass
   a,,8 e' b' c~ c b g' c,16 a'
   d,,8 a' e' fis~ fis2
   g,,8 d' a' b~ b4 fis'
   c,8 g' d' e~ e2
   b,8 fis' cis' dis~ dis2
-  \clef treble
-  e,8 b' fis' b~ b d4.
+  e,8 b' \clef treble fis' b~ b d4.
   \clef bass
   a,,8 e' b' c~ c g'4.
   d,8 a' e' fis~ fis2
@@ -176,13 +170,13 @@ thanksgiving_piano_lower = \relative c
   \clef bass
   a,,8 e' b' c \clef treble g' d'~ d4
   \clef bass
-  g,,,8 d' \clef treble a' fis'~ fis2
+  g,,,8 d' a' fis'~ fis2
   \clef bass
   c,8 g' d' e~ e2
   b,8 fis' cis' dis~ dis2
   e,8 b' fis' g~ g2
   a,,8 e' b' g'~ g c, g'4
-  d,8 a' e' fis \clef treble c'4~ c16 a8.
+  d,8 a' \clef treble e' fis c'4~ c16 a8.
   \clef bass
   g,,8 d' a' b fis'4 b,8 fis'
   c, g' d' e~ e2
